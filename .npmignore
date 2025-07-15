@@ -1,3 +1,6 @@
 .lock*
 build*/
 *.sw[a-z]
+test/
+examples/
+.github/
